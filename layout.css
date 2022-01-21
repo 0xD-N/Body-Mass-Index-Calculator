@@ -33,7 +33,7 @@ body
     top: 20%;
     left: 32%;
     width:35vw;
-    height:48%;
+    height:fit-content;
     border:1vw solid #3D0000;
 
 }
